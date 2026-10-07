@@ -19,3 +19,4 @@ Non-zero = Failure
 HTTP 200 = Success
 HTTP 404 = Not Found
 HTTP 502 = Bad Gateway
+Git practice started.
