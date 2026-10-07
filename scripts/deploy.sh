@@ -14,6 +14,7 @@ check_application() {
 
 deploy() {
     echo "Starting Deployment: $APP_NAME"
+    echo "$(date) - Deployment started: $APP_NAME" >> logs/app.log
     echo "Checking Application..."
     echo "Deployment Completed!..."
     return 0
